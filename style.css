@@ -1,0 +1,28 @@
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela th, .tabela td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.tabela th, td {
+    background-color: #88daad;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 0;
+    background-color: #166a2b;
+    color: #333;
+}
+
+.titulo{
+    color:black;
+    text-align: center;
+}
